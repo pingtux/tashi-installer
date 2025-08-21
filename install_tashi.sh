@@ -26,5 +26,5 @@ echo "=== Menjalankan Install Script Tashi DePIN Worker ==="
 
 echo
 echo "=== Instalasi selesai! ==="
-echo "Jika Anda baru saja menambahkan user ke grup docker,"
-echo "harap logout & login ulang sebelum menjalankan docker tanpa sudo."
+echo "Container Tashi Worker otomatis akan restart saat server reboot."
+echo "Pastikan port 39065 TCP/UDP terbuka agar Worker bisa bekerja optimal."
