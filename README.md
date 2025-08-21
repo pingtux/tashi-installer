@@ -11,11 +11,4 @@ curl -sL https://raw.githubusercontent.com/pingtux/tashi-installer/main/install_
 chmod +x install_tashi.sh
 ./install_tashi.sh
 
-Port & NAT / Firewall
-
-Tashi Worker needs to be publicly accessible on port 39065 (TCP/UDP) untuk bekerja 100% dan menghasilkan reward maksimal.
-
-NAT / CGNAT: Jika server berada di belakang NAT/CGNAT, lakukan port forwarding pada router/ISP untuk port 39065.
-
-UFW Firewall: Jika menggunakan UFW, buka port 39065 TCP/UDP:
 
