@@ -11,3 +11,4 @@ curl -sL https://raw.githubusercontent.com/pingtux/tashi-installer/main/install_
 chmod +x install_tashi.sh
 ./install_tashi.sh```
 
+## ufw
