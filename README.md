@@ -15,4 +15,3 @@ chmod +x install_tashi.sh
 
 # Jalankan installer
 ./install_tashi.sh
-
