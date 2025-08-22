@@ -9,3 +9,6 @@ Skrip untuk memasang **Docker + Tashi DePIN Worker** di Ubuntu 24.04, Debian 12/
 curl -sL https://raw.githubusercontent.com/pingtux/tashi-installer/main/install_tashi.sh -o install_tashi.sh
 chmod +x install_tashi.sh
 ./install_tashi.sh
+
+Port & Firewall
+Pastikan port 39065 (TCP/UDP) terbuka:
