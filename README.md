@@ -16,10 +16,3 @@ chmod +x install_tashi.sh
 # Jalankan installer
 ./install_tashi.sh
 
-Setelah script dijalankan:
-
-Pastikan Docker sudah berjalan.
-
-Buka port 39065 TCP/UDP agar Tashi Worker bisa bekerja optimal.
-
-Cek status container dengan docker ps -a.
