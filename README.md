@@ -1,3 +1,5 @@
+tashi-installer
+Universal installer for Tashi DePIN Worker (Docker + Script)
 Tashi Installer
 Skrip universal untuk memasang Docker + Tashi DePIN Worker di Ubuntu 24.04, Debian 12/13.
 Cara Pakai
