@@ -9,7 +9,7 @@ Script universal untuk memasang **Docker + Tashi DePIN Worker** di Ubuntu 24.04,
 ```bash
 # Download script installer
 curl -sL https://raw.githubusercontent.com/pingtux/tashi-installer/main/install_tashi.sh -o install_tashi.sh
-```bash
+
 # Beri izin eksekusi
 chmod +x install_tashi.sh
 
